@@ -1,2 +1,9 @@
 # chat-cord
-Chat Cord a real time chat web app
+
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
+
+npm install
+Reddis-server
+npm run dev
+
+Go to localhost:3000
