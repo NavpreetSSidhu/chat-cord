@@ -4,8 +4,10 @@ Realtime chat app with websockets using Node.js, Express and Socket.io with Vani
 
 ## Usage
 
+```
 npm install
 Reddis-server
 npm run dev
 
 Go to localhost:3000
+```
